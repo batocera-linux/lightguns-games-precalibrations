@@ -1,6 +1,6 @@
 ## Precalibration config files and NVRAM for Light Gun games (WIP)
 
-Set of config and NVRAM files precalibrated for gun games using compatible Light Gun (with some game exceptions like adsticks used by Terminator 2 : The Arcade Game). Those files are generated when launching game for the first time; if it exists already, Batocera will ignore it. All settings within are set to defaults, only the gun calibration was made for maximum accuracy with true Plug-ang-Play experience.
+Set of config and NVRAM files precalibrated for gun games using compatible Light Gun (with some game exceptions like adsticks used by Terminator 2 : The Arcade Game). Those files are generated when launching game for the first time; if it exists already, Batocera will ignore it. All settings within are set to defaults, only the gun calibration was made true Plug-ang-Play experience with maximum accuracy.
 
 Specific tweaking for games and updates will be made over time.
 
