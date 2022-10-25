@@ -9,10 +9,10 @@ Specific tweaking for games and updates will be made over time.
 2. NAOMI
 3. Model2
 4. Model3
-5. MAME (standalone).
+5. MAME (standalone, lr-mame2003plus).
 
 ### Calibration to do :
-1. Arcade (libretro-mame2003plus, libretro-MAME, libretro-FBNeo)
+1. Arcade (libretro-MAME, libretro-FBNeo)
 4. Sega Saturn
 5. Dreamcast
 6. PSX
