@@ -9,7 +9,7 @@ Specific tweaking for games and updates will be made over time.
 2. NAOMI
 3. Model2
 4. Model3
-5. MAME (standalone, lr-mame2003plus).
+5. MAME (standalone, lr-mame2003plus, lr-mame*).
 
 ### Calibration to do :
 1. Arcade (libretro-MAME, libretro-FBNeo)
@@ -19,3 +19,5 @@ Specific tweaking for games and updates will be made over time.
 7. 3DO
 
 If a calibration or tweak is missing, feel free to do it yourself and make a pull request.
+
+*Must place files from /saves/mame/ (MAME standalone) to /saves/mame/mame (lr-MAME)
