@@ -12,7 +12,7 @@ Specific tweaking for games and updates will be made over time.
 5. MAME (standalone, lr-mame2003plus, lr-mame*).
 
 ### Calibration to do :
-1. Arcade (libretro-MAME, libretro-FBNeo)
+1. Arcade (libretro-FBNeo)
 4. Sega Saturn
 5. Dreamcast
 6. PSX
