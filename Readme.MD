@@ -17,6 +17,7 @@ Specific tweaking for games and updates will be made over time.
 5. Dreamcast
 6. PSX
 7. 3DO
+8. Wii
 
 If a calibration or tweak is missing, feel free to do it yourself and make a pull request.
 
