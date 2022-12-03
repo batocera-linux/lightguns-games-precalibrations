@@ -10,6 +10,7 @@ Specific tweaking for games and updates will be made over time.
 3. Model2
 4. Model3
 5. MAME (standalone, lr-mame2003plus, lr-mame*).
+6. Wii
 
 ### Calibration to do :
 1. Arcade (libretro-FBNeo)
@@ -17,7 +18,6 @@ Specific tweaking for games and updates will be made over time.
 5. Dreamcast
 6. PSX
 7. 3DO
-8. Wii
 
 If a calibration or tweak is missing, feel free to do it yourself and make a pull request.
 
