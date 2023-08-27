@@ -11,6 +11,7 @@ Specific tweaking for games and updates will be made over time.
 4. Model3
 5. MAME (standalone, lr-mame2003plus, lr-mame*).
 6. Wii
+7. Namco 246/256
 
 ### Calibration to do :
 1. Arcade (libretro-FBNeo)
